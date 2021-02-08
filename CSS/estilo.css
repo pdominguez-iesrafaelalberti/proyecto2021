@@ -1,0 +1,46 @@
+h1 {
+
+	color: red;
+}
+#cabecera{   
+	position: absolute;
+    top: 2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+    background-color: red;
+}
+#indice{
+	position: absolute;
+	top:13%;
+	left:2%;
+	width: 25%;
+	height: 75%
+	background-color:yellow;
+}
+#contenido{
+	position: absolute;
+	top:13%;
+	left:30%;
+	width: 65%;
+	height:75%;
+	background-color:green;
+}
+#piedepagina{
+	position: absolute;
+	top:89%;
+	left:30%;
+	height: 10%;
+	width: 65%;
+	background-color:brown;
+}
+
+#button li a {
+ font-family: Arial;
+ font-size: 11px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ background-color: #2175bc;
+ color: #fff;
+ }
